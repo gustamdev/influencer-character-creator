@@ -12,4 +12,4 @@ Repositório com duas skills de agente para gerar prompts de imagem de personage
 
 - Cada skill vive em `skills/<nome>/SKILL.md`, e o `name` do frontmatter é igual ao nome da pasta.
 - Ao adicionar ou remover uma skill, atualize a tabela do `README.md` e o `AGENTS.md`.
-- O README é curto e em português. Mantenha assim.
+- O README é curto e em inglês. Mantenha assim.
