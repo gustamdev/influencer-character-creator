@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "live-action-character-skills",
+  "name": "influencer-character-creator",
   "description": "Skills para criar personagens live-action com realismo fotográfico e gerar o character sheet de continuidade.",
   "owner": {
     "name": "Gustavo Mendes",
@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "live-action-character-skills",
+      "name": "influencer-character-creator",
       "description": "Cria o prompt de um personagem live-action e o prompt do character sheet correspondente.",
       "source": "./",
       "category": "productivity"

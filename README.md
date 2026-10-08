@@ -1,4 +1,4 @@
-# Live-action character skills
+# Influencer character creator
 
 Duas skills de agente para criar personagens virais no estilo cartoon/caricatura traduzidos para pessoas reais, com realismo fotográfico, e gerar a prancha de continuidade deles.
 
@@ -16,8 +16,8 @@ Duas skills de agente para criar personagens virais no estilo cartoon/caricatura
 Como plugin do Claude Code:
 
 ```bash
-/plugin marketplace add gustamdev/live-action-character-skills
-/plugin install live-action-character-skills@live-action-character-skills
+/plugin marketplace add gustamdev/influencer-character-creator
+/plugin install influencer-character-creator@influencer-character-creator
 ```
 
 Ou copiando as pastas para `~/.claude/skills/`:
