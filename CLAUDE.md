@@ -6,6 +6,7 @@ Repositório com duas skills de agente para gerar prompts de imagem de personage
 
 - `skills/live-action-character/SKILL.md`: cria o personagem e entrega o prompt de geração de imagem.
 - `skills/live-action-character-sheet/SKILL.md`: gera o prompt do character sheet (prancha de continuidade) do personagem.
+- `assets/`: logo do README.
 - `.claude-plugin/`: manifesto do plugin e do marketplace.
 
 ## Regras

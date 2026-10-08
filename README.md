@@ -1,4 +1,8 @@
-# Influencer character creator
+<p align="center">
+  <img src="assets/logo.png" width="220" alt="Influencer character creator">
+</p>
+
+<h1 align="center">Influencer character creator</h1>
 
 Two agent skills to create viral cartoon/caricature-style characters translated into real people with photographic realism, and to generate their continuity sheet.
 
