@@ -1,0 +1,9 @@
+{
+  "name": "live-action-character-skills",
+  "version": "1.0.0",
+  "description": "Skills para criar personagens live-action com realismo fotográfico e gerar o character sheet de continuidade.",
+  "author": {
+    "name": "Gustavo Mendes",
+    "url": "https://github.com/gustamdev"
+  }
+}
